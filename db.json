@@ -106,6 +106,21 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "name": "secret sauce ",
+      "spiceblendId": 1,
+      "id": 18
+    },
+    {
+      "name": "MJs special stuff",
+      "spiceblendId": 1,
+      "id": 19
+    },
+    {
+      "name": "THE JUICE",
+      "spiceblendId": 1,
+      "id": 20
     }
   ]
 }
