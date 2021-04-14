@@ -2,7 +2,7 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Pumpkin Spice",
+      "title": "not pumpkin spice ",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
@@ -121,6 +121,11 @@
       "name": "THE JUICE",
       "spiceblendId": 1,
       "id": 20
+    },
+    {
+      "name": "banana",
+      "spiceblendId": 1,
+      "id": 21
     }
   ]
 }
